@@ -1,4 +1,4 @@
-firezuzu
+:fire: firezuzu
 =====
 
 A set of basecodes and style guides for firebase functions that uses cloud firestore.
