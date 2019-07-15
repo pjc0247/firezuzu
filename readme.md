@@ -7,7 +7,7 @@ Why
 ----
 `firebase functions` can be a good start to creating straightforward application/server. 
 however, `firestore` doesn't. There're so many lack of features. You can easily find suffering people on stackoverflow if you decided to make something with firestore.<br>
-This repository is just for some people who want to make firebase application with less pain and solid structure.
+This repository is just made for some people who want to make firebase application with less pain and solid structure.
 
 Features
 ----
