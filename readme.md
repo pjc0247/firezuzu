@@ -70,6 +70,11 @@ export class Guild extends BaseController<GuildModel> {
 }
 ```
 
+Getting Started
+----
+Since `firezuzu` is not a library nor framework, it does not have any packages on `npm`.<br>
+Just download this repository and starts dev from it.
+
 Project Structure
 ----
 Since this project also suggests you some style guides, let me describe you how the project structure should be.
