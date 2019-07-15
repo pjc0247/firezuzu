@@ -89,6 +89,12 @@ functions/src/
   - thirdparty/
 ```
 
+__api__<br>
+Contains __api__ definitions which should be visible to clients.
+
+__controller__<br>
+`Controllers` actually communicates with database(firestore). This also contains `model` in __firezuzu__.
+
 __db/__<br>
 A home of static database files which does not mean `RDB` or `NOSQL` stuffs. 
 I suggest you to store `.json` and some `.ts` files here which contains static data such as:
